@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Budget Calculator</string>
+    <string name="logo">Logo</string>
+    <string name="budget_calculator">Budget Calculator</string>
+    <string name="add_budget_icon">Add Budget Icon</string>
+    <string name="_0_00">0.00</string>
+    <string name="select_date">Select Date</string>
+    <string name="add_budget_profile">Add Profile</string>
+    <string name="profile_title">Profile Title</string>
+    <string name="bank_source">Bank Source</string>
+    <string name="budget">0.00</string>
+    <string name="expenses">Expenses</string>
+    <string name="description">Description</string>
+    <string name="amount">Amount</string>
+    <string name="add_amount">Add Amount</string>
+    <string name="select">My Account</string>
+    <string name="deselect">Deselect</string>
+    <string name="to_my_account">To My Account</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="amounts_to_be_withdrawn">Amounts to be withdrawn</string>
+</resources>
